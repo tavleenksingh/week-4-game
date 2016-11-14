@@ -1,0 +1,72 @@
+body{
+	background-image: url(../images/restaurant.png);
+}
+
+header{
+	padding: 20px;
+	margin: 5px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #cc7037;
+}
+
+#gameDescription{
+	height: 300px;
+	background-color: #fbe6cf;
+	padding: 20px 5px 40px 5px;
+	margin: 5px;
+	color: #47835c;
+}
+p{
+    margin: 0 0 20px;
+    font-weight: bold;
+}
+
+#numberToGuess{
+	background-color: #53c987;
+	height: 80px;
+	color: black;
+	padding: 10px;
+	margin: 5px;
+	font-size: 20px;
+}
+
+/*#numToGuessPara{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	color: black;*/
+}
+
+#gameStats{
+	height: 80px;
+	padding: 5px;
+	margin: 0px;
+	background-color: #3afefd;
+}
+
+ #scorePara{
+ 	background-color: #1fa397;
+ 	padding: 5px;
+ 	margin: 5px;
+ 	color: white;
+ }
+ #scoreHolder{
+ 	color: black;
+	height: 80px;
+	padding: 10px;
+	margin: 5px;
+	font-size: 20px;
+	background-color: #1fa397;
+ }
+
+.crystalImage {
+	margin: 5px;
+    width: 100px;
+    height: 100px;
+ }
+
+
+
+
